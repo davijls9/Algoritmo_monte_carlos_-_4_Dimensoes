@@ -30,6 +30,7 @@ Este notebook implementa um algoritmo de Monte Carlo para encontrar o melhor cam
 
 - 4 Dimensões Espaciais (x, y, z, w)
 - 2 Dimensões Espaciais e 2 Temporais (x, y, t1, t2)
+- 3 Dimensões Espaciais e 2 Temporais (x, y, z, t1, t2)
 - 3 Dimensões Temporais e 1 Espacial (t1, t2, t3, x)
 - 3 Dimensões Temporais e 2 Espaciais (t1, t2, t3, x, y)
 - 3 Dimensões Temporais e 3 Espaciais (t1, t2, t3, x, y, z)
