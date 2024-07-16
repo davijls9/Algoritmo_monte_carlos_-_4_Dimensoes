@@ -50,7 +50,7 @@ Para executar o notebook, siga os passos abaixo:
 
 ### Descrição
 
-Este notebook aborda a representação de hipersuperfícies em 4D utilizando diferentes técnicas de projeção para visualizá-las em 3D. O foco é criar visualizações compreensíveis de hipersuperfícies complexas projetadas para 3D e demonstrar várias formas de representar a quarta dimensão.
+Este notebook aborda a representações dos 4D's utilizando diferentes técnicas de projeção para visualizá-las em 3D. O foco é criar visualizações compreensíveis de hipersuperfícies complexas projetadas para 3D e demonstrar várias formas de representar a quarta dimensão.
 
 ### Execução
 
@@ -61,7 +61,7 @@ Para executar o notebook, siga os passos abaixo:
    jupyter notebook
    ```
 2. Navegue até `representacao_4D.ipynb` e abra-o.
-3. Execute as células sequencialmente para gerar as visualizações das hipersuperfícies em 4D.
+3. Execute as células sequencialmente para gerar as visualizações.
 
 ## Licença
 
